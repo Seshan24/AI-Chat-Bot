@@ -1,4 +1,5 @@
 # add this requirement.txt file using given instructions
+# First read the README.md file
 
 ipykernel
 ipython
