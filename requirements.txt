@@ -1,5 +1,6 @@
 # add this requirement.txt file using given instructions
 # First read the README.md file
+# add this rewuirment.txt file to your notebook
 
 ipykernel
 ipython
