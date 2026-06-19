@@ -52,11 +52,18 @@ pip install openai sqlite3
 
 3. Add your API key:
 
+
+
 ## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-## © 2026 Seshan Rodrigo. All rights reserved
+## 👨‍💻 Author
+
+**Seshan Rodrigo**
+
+- LinkedIn: https://www.linkedin.com/in/your-profile
+- GitHub: https://github.com/yourusername
 
